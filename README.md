@@ -5,3 +5,6 @@
 
 SSD Object Detection 技術範例影片
 https://www.youtube.com/watch?v=aOwQAhoK6iY
+
+SSD: Single Shot MultiBox Detector
+https://github.com/weiliu89/caffe/tree/ssd
